@@ -1,3 +1,5 @@
+// import AIAzureSuggestion from "@/components/AIAzureSuggestion";
+// import AISuggestion from "@/components/AISuggestion";
 import MoviesCarousel from "@/components/MoviesCarousel";
 import { getDiscoverMovies } from "@/lib/getMovies";
 
